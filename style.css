@@ -1,0 +1,12 @@
+.accordion-item{
+    border: none;
+}
+.accordion-body img{
+    max-width: 100%;
+}
+.accordion-header{
+    border-top: 1px solid rgb(182, 182, 182);
+}
+.text-center{
+    text-align: center;
+}
